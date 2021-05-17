@@ -33,5 +33,6 @@
     "Zyst.Egoist-One"
   ],
   "publisher": "viko16",
-  "repository": "viko16/vscode-extension-pack"
+  "repository": "viko16/vscode-extension-pack",
+  "icon": "icon.jpeg"
 }
