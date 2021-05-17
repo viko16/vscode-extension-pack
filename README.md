@@ -1,2 +1,3 @@
-# vscode-extension-pack
-viko's Visual Studio Code Extension Packs
+# viko's Dev Pack
+
+The collection of Visual Studio Code extensions I use
