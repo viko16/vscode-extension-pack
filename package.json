@@ -2,7 +2,7 @@
   "name": "dev-pack",
   "displayName": "viko's Dev Pack",
   "description": "The collection of Visual Studio Code extensions I use",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "scripts": {
     "deploy": "vsce package && vsce publish minor"
   },
