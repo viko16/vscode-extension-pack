@@ -3,6 +3,12 @@
   "displayName": "viko's Dev Pack",
   "description": "The collection of Visual Studio Code extensions I use",
   "version": "0.0.1",
+  "scripts": {
+    "deploy": "vsce package && vsce publish minor"
+  },
+  "devDependencies": {
+    "vsce": "^1.88.0"
+  },
   "engines": {
     "vscode": "^1.56.0"
   },
@@ -25,5 +31,7 @@
     "xabikos.JavaScriptSnippets",
     "xabikos.ReactSnippets",
     "Zyst.Egoist-One"
-  ]
+  ],
+  "publisher": "viko16",
+  "repository": "viko16/vscode-extension-pack"
 }
