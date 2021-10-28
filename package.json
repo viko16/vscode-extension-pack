@@ -7,7 +7,7 @@
     "deploy": "vsce package && vsce publish minor"
   },
   "devDependencies": {
-    "vsce": "^1.88.0"
+    "vsce": "^1.100.2"
   },
   "engines": {
     "vscode": "^1.56.0"
@@ -24,7 +24,6 @@
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
     "Gruntfuggly.todo-tree",
-    "jpoissonnier.vscode-styled-components",
     "stylelint.vscode-stylelint",
     "wix.glean",
     "wmaurer.change-case",
