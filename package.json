@@ -16,19 +16,17 @@
     "Extension Packs"
   ],
   "extensionPack": [
+    "amour1688.ts-in-markdown",
     "alefragnani.project-manager",
     "christian-kohler.path-intellisense",
     "clinyong.vscode-css-modules",
     "dbaeumer.vscode-eslint",
+    "dsznajder.es7-react-js-snippets",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
-    "Gruntfuggly.todo-tree",
     "stylelint.vscode-stylelint",
-    "wix.glean",
     "wmaurer.change-case",
-    "xabikos.JavaScriptSnippets",
-    "xabikos.ReactSnippets",
     "Zyst.Egoist-One"
   ],
   "publisher": "viko16",
