@@ -4,9 +4,13 @@
   "description": "The collection of Visual Studio Code extensions I use",
   "version": "1.3.0",
   "scripts": {
-    "deploy": "vsce package && vsce publish minor"
+    "deploy": "vsce publish minor",
+    "predeploy": "npm run build:doc && npm run build:pac",
+    "build:doc": "node scripts/update-readme.js",
+    "build:pac": "vsce package"
   },
   "devDependencies": {
+    "@types/node": "^18.11.18",
     "vsce": "^2.5.1"
   },
   "engines": {
