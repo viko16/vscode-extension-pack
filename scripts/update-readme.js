@@ -33,8 +33,8 @@ function formatMarkdown(extensionsResult) {
   }
   return extensionsResult
     .map(
-      ({ displayName, extensionName, shortDescription }) =>
-        `- [${displayName}](https://marketplace.visualstudio.com/items?itemName=${extensionName}) - ${shortDescription}`,
+      ({ displayName, extensionName, shortDescription, publisher }) =>
+        `- [${displayName}](https://marketplace.visualstudio.com/items?itemName=${publisher.publisherName}.${extensionName}) - ${shortDescription}`,
     )
     .sort((a, b) => a.localeCompare(b))
     .join('\n');
