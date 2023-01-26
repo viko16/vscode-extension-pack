@@ -4,6 +4,11 @@ All notable changes to the "vikos-dev-pack" extension pack will be documented in
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.6.0]
 
-- Initial release
+- Fix docs link
+
+## [1.5.0]
+
+- Remove `dsznajder.es7-react-js-snippets`
+- Add `viko16.viko-javascript-snippets`
