@@ -24,7 +24,6 @@
     "alefragnani.project-manager",
     "christian-kohler.path-intellisense",
     "dbaeumer.vscode-eslint",
-    "dsznajder.es7-react-js-snippets",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode",
@@ -32,7 +31,8 @@
     "letmaik.git-tree-compare",
     "zhuangtongfa.material-theme",
     "streetsidesoftware.code-spell-checker",
-    "teledemic.branch-warnings"
+    "teledemic.branch-warnings",
+    "viko16.viko-javascript-snippets"
   ],
   "publisher": "viko16",
   "repository": "viko16/vscode-extension-pack",
