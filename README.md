@@ -8,15 +8,16 @@ https://marketplace.visualstudio.com/items?itemName=viko16.dev-pack
 
 ## Extensions Included in this pack
 
-- [TS in Markdown](https://marketplace.visualstudio.com/items?itemName=amour1688.ts-in-markdown) - Language support for TS in markdown
-- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager) - Easily switch between projects
-- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) - Visual Studio Code plugin that autocompletes filenames
-- [CSS Modules](https://marketplace.visualstudio.com/items?itemName=clinyong.vscode-css-modules) - Visual Studio Code extension for CSS Modules
-- [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Integrates ESLint JavaScript into VS Code.
-- [ES7 React/Redux/GraphQL/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets) - Simple extensions for React, Redux and Graphql in JS/TS with ES7 syntax
-- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens) - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more
-- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - EditorConfig Support for Visual Studio Code
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Code formatter using prettier
-- [Stylelint](https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint) - Official Stylelint extension for Visual Studio Code
-- [change-case](https://marketplace.visualstudio.com/items?itemName=wmaurer.change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
-- [Egoist One](https://marketplace.visualstudio.com/items?itemName=Zyst.Egoist-One) - Fork of Binarify/OneDark-Pro customized to my taste
+- [change-case](https://marketplace.visualstudio.com/items?itemName=change-case) - Quickly change the case (camelCase, CONSTANT_CASE, snake_case, etc) of the current selection or current word
+- [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=code-spell-checker) - Spelling checker for source code
+- [EditorConfig for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig) - EditorConfig Support for Visual Studio Code
+- [ES7+ React/Redux/React-Native snippets](https://marketplace.visualstudio.com/items?itemName=es7-react-js-snippets) - Extensions for React, React-Native and Redux in JS/TS with ES7+ syntax. Customizable. Built-in integration with prettier.
+- [ESLint](https://marketplace.visualstudio.com/items?itemName=vscode-eslint) - Integrates ESLint JavaScript into VS Code.
+- [Git Branch Warnings](https://marketplace.visualstudio.com/items?itemName=branch-warnings) - Warn when you're on the wrong Git branch, like MAIN
+- [Git Tree Compare](https://marketplace.visualstudio.com/items?itemName=git-tree-compare) - Diff your worktree against a branch, tag, or commit in a tree -- especially useful for pull request preparation or merge preview
+- [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=gitlens) - Supercharge Git within VS Code — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git repositories, gain valuable insights via rich visualizations and powerful comparison commands, and so much more
+- [One Dark Pro](https://marketplace.visualstudio.com/items?itemName=Material-theme) - Atom‘s iconic One Dark theme for Visual Studio Code
+- [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=path-intellisense) - Visual Studio Code plugin that autocompletes filenames
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=prettier-vscode) - Code formatter using prettier
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=project-manager) - Easily switch between projects
+- [TS in Markdown](https://marketplace.visualstudio.com/items?itemName=ts-in-markdown) - Language support for TS in markdown
